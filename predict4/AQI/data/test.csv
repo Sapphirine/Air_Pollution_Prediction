@@ -1,0 +1,12 @@
+Number,State Code,County Code,Site Num,Date Local,Local Site Name,State Name,County Name,City Name,Temp Arithmetic Mean,Wind SpeedArithmetic Mean,Wind Direction Arithmetic Mean,Barometric pressure Arithmetic Mean,CO Arithmetic Mean,CO AQI,SO2 Arithmetic Mean,SO2 AQI,NO2 Arithmetic Mean,NO2 AQI,Ozone Arithmetic Mean,Ozone AQI,PM25 Mean,PM2.5 AQI,TestAQI
+459,1,73,23,2015/12/20,North Birmingham,Alabama,Jefferson,Birmingham,46.391667,1.283333,102.5,1005.095833,12.120833,7,0.020667,6,12.120833,20,0.020667,26,10.2,43,43
+460,1,73,23,2015/12/21,North Birmingham,Alabama,Jefferson,Birmingham,57.416667,2.420833,148.25,997.858333,9.091667,2,0.019083,1,9.091667,22,0.019083,22,5.7,24,24
+461,1,73,23,2015/12/22,North Birmingham,Alabama,Jefferson,Birmingham,64.416667,1.608333,164.333333,990.579167,8.704167,2,0.01575,0,8.704167,13,0.01575,23,4.4,18,23
+462,1,73,23,2015/12/23,North Birmingham,Alabama,Jefferson,Birmingham,66.741667,3.216667,169.833333,986.075,3.958333,1,0.021042,0,3.958333,7,0.021042,23,3.6,15,23
+463,1,73,23,2015/12/24,North Birmingham,Alabama,Jefferson,Birmingham,70.85,1.6375,171.041667,993.754167,5.4875,2,0.015458,0,5.4875,15,0.015458,18,10.8,45,45
+464,1,73,23,2015/12/25,North Birmingham,Alabama,Jefferson,Birmingham,70.366667,2.658333,136.375,998.375,1.9375,1,0.02375,0,1.9375,4,0.02375,27,2.5,10,27
+465,1,73,23,2015/12/26,North Birmingham,Alabama,Jefferson,Birmingham,69.383333,1.975,141.666667,998.954167,3.658333,2,0.019875,0,3.658333,13,0.019875,25,4.1,17,25
+466,1,73,23,2015/12/27,North Birmingham,Alabama,Jefferson,Birmingham,71.270833,2.4375,150.791667,994.383333,3.829167,2,0.021333,0,3.829167,10,0.021333,22,5.3,22,22
+467,1,73,23,2015/12/28,North Birmingham,Alabama,Jefferson,Birmingham,67.729167,3.7875,172.791667,987.225,3.33913,1,0.02625,0,3.33913,6,0.02625,30,4,17,30
+468,1,73,23,2015/12/29,North Birmingham,Alabama,Jefferson,Birmingham,53.954167,0.804167,218.875,994.7375,12,6,0.009417,3,12,24,0.009417,19,4.6,19,24
+469,1,73,23,2015/12/30,North Birmingham,Alabama,Jefferson,Birmingham,54.954167,0.866667,234.5,998.166667,11.404762,7,0.008125,3,11.404762,17,0.008125,11,6.7,28,28
